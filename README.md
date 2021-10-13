@@ -1,0 +1,1 @@
+As one of the most popular websites out there to scrape, Craigslist has proved to be one of the toughest ones. The reason is simple: unlike websites that provide users with APIs to get data, Craigslist API is not aimed at pulling data off. Quite on the contrary, it is used for posting data on Craigslist.
